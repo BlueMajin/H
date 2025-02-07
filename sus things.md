@@ -1,16 +1,5 @@
 ## Most Sus Mangas
 
-<style>
-.d-table tr:hover {
-  background-color: rgba(2, 255, 238, 0.58);
-}
-
-.d-table table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
-
 <!-- Table Start -->
 
 <table class = "d-table">
@@ -48,15 +37,6 @@
 </table>
 
 ## Most Sus Hentai Animes
-
-<style>
-.h-table tr:hover {background-color:rgba(99, 255, 2, 0.49);}
-
-.h-table table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
 
 <!-- Table Start -->
 
