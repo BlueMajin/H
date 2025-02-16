@@ -1,5 +1,16 @@
 ## Most Sus Mangas
 
+<style>
+.d-table tr:hover {
+  background-color: rgba(2, 255, 238, 0.58);
+}
+
+.d-table table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+
 <!-- Table Start -->
 
 <table class = "d-table">
@@ -37,6 +48,15 @@
 </table>
 
 ## Most Sus Hentai Animes
+
+<style>
+.h-table tr:hover {background-color:rgba(99, 255, 2, 0.49);}
+
+.h-table table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
 
 <!-- Table Start -->
 
@@ -117,6 +137,24 @@
 <tr>
 <td> Ane wa yanmama
 <td> MILF, Breastmilk, BBW, Married Woman
+<td> Yes
+</tr>
+
+<tr>
+<td> Tamshii Insert
+<td> School, Teen, Stepsister, Furry*
+<td> Yes
+</tr>
+
+<tr>
+<td> Amanee
+<td> MILF, Romance, Young, Comedy, BBW, Married Woman
+<td> <b>NO</b>
+</tr>
+
+<tr>
+<td> Enjo Kohai
+<td> School, Teen, Romance, Furry, Teacher, Kinky
 <td> Yes
 </tr>
 
