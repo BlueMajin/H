@@ -154,7 +154,7 @@
 
 <tr>
 <td> Enjo Kohai
-<td> School, Teen, Romance, Furry, Teacher, Kinky
+<td> School, Teen, Harem, Romance, Furry, Teacher, Kinky
 <td> Yes
 </tr>
 
