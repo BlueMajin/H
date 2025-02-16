@@ -70,7 +70,7 @@
 
 <tr>
 <td> Shoujo Sect
-<td> <b>Lesbian</b>, Romance, Incest, School, Comedy
+<td> <b>Lesbian</b>, Romance, Incest, School, Comedy, Sisters
 <td> Yes
 </tr>
 
@@ -148,14 +148,38 @@
 
 <tr>
 <td> Amanee
-<td> MILF, Romance, Young, Comedy, BBW, Married Woman
+<td> MILF, Romance, Comedy, BBW, Married Woman
 <td> <b>NO</b>
 </tr>
 
 <tr>
 <td> Enjo Kohai
-<td> School, Teen, Harem, Romance, Furry, Teacher, Kinky
+<td> Harem, School, Teen, Sisters, Romance, Furry, Teacher, Kinky
 <td> Yes
+</tr>
+
+<tr>
+<td> Ane Kyun!
+<td> Incest, Teen, Romance, Harem, School, Comedy
+<td> <b>NO</b>
+</tr>
+
+<tr>
+<td> Green Eyes: Ane Kyun
+<td> Incest, Romance, Teen
+<td> <b>NO</b>
+</tr>
+
+<tr>
+<td> Kanojo x Kanojo x Kanojo
+<td> Harem, Romance, School, Teen, Mature, BBW, Comedy, Sisters
+<td> <b>NO</b>
+</tr>
+
+<tr>
+<td> Lover In Law
+<td> Harem, Romance, Mature, BBW, MILF, Married Woman
+<td> <b>NO</b>
 </tr>
 
 </table>
