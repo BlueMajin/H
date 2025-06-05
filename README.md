@@ -154,7 +154,7 @@
 
 <tr>
 <td> Enjo Kohai
-<td> Harem, School, Teen, Sisters, Romance, Furry, Teacher, Kinky
+<td> Harem, School, Teen, Sisters, Romance, Furry, Teacher, Kinky, Breastmilk*
 <td> Yes
 </tr>
 
@@ -180,6 +180,18 @@
 <td> Lover In Law
 <td> Harem, Romance, Mature, BBW, MILF, Married Woman
 <td> <b>NO</b>
+</tr>
+
+<tr>
+<td> Anehame
+<td> Romance, Sister, Teen
+<td> YES
+</tr>
+
+<tr>
+<td> Victorian Maid
+<td> Maid, BBW, Breastmilk*
+<td> YES
 </tr>
 
 </table>
